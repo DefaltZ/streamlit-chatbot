@@ -3,3 +3,5 @@ etc/
 lib/
 pyvenv.cfg
 share/
+test.py
+test1.py
